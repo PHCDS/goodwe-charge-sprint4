@@ -1,0 +1,7 @@
+dados/*.csv
+dados/*.json
+docs/impacto.md
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
